@@ -33,5 +33,5 @@ Master branch is always built before pushing
 
 #### Add Font-awesome icons on your sensor
 
-you can add a font-awesome icon to your sensor by naming it like follows :  _fa-[fa topic]_ 
+You can add a [font-awesome](https://fontawesome.com/) icon to your sensor by naming it like follows :  _fa-[fa topic]_ 
 Example : _fa-lock_ 
