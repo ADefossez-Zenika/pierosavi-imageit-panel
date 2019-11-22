@@ -28,3 +28,10 @@ Master branch is always built before pushing
 * Change sensors background color (even transparent)
 * Font Awesome Icons - Images mapping on sensor name
 * Value mapping system
+
+### Usage
+
+#### Add Font-awesome icons on your sensor
+
+you can add a font-awesome icon to your sensor by naming it like follows :  _fa-[fa topic]_ 
+Example : _fa-lock_ 
